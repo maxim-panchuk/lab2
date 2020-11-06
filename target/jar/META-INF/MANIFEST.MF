@@ -1,0 +1,8 @@
+Manifest-Version: 1.0
+Created-By: Apache Maven 3.6.3
+Built-By: maksimpancuk
+Build-Jdk: 14.0.2
+Class-Path: Pokemon-1.0.jar /Users/maksimpancuk/Documents/jav/ProgLab/li
+ b/com/maxim/Pokemon/1.0/Pokemon-1.0.jar
+Main-Class: com.maxim.App
+
